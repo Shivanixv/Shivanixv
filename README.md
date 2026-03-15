@@ -1,5 +1,19 @@
 ## Hi there 👋
+# Hi, I'm Shivani 👋
 
+💻 Learning C++, HTML, CSS, JavaScript  
+🚀 Interested in Software Development  
+
+## Skills
+- C++
+- HTML
+- CSS
+- JavaScript
+
+## Projects
+- Student Management System
+- Expense Tracker
+- Calculator Web App
 <!--
 **Shivanixv/Shivanixv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
