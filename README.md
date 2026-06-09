@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Hi, I'm Shivani 👋
 
-💻 Learning C++, HTML, CSS, JavaScript  
+💻 C++, HTML, CSS, JavaScript, java  
 🚀 Interested in Software Development  
 
 ## Skills
@@ -9,6 +9,7 @@
 - HTML
 - CSS
 - JavaScript
+- Java
 
 ## Projects
 - Student Management System
